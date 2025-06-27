@@ -5,5 +5,5 @@ layout: single
 comments: false
 ---
 
-⛪️ I'm Undergraduate Student In KwangWoon University. Seoul
+⛪️ I'm Undergraduate Student In KwangWoon University. Seoul <br>
 💻 Major in Data Science & Studying BackEnd & Interested in Infra. 
