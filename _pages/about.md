@@ -1,8 +1,9 @@
 ---
-title: "Hi all! I'm OOOOOO👋🏻"
+title: "Hi all! I'm KyoungWon Kwak👋🏻"
 permalink: /about/
 layout: single
 comments: false
 ---
 
-본인 소개 여기에 입력
+⛪️ I'm Undergraduate Student In KwangWoon University. Seoul
+💻 Major in Data Science & Studying BackEnd & Interested in Infra. 
